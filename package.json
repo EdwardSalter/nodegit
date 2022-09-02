@@ -64,7 +64,8 @@
   "binary": {
     "module_name": "nodegit",
     "module_path": "./build/Release/",
-    "host": "https://axonodegit.s3.amazonaws.com/nodegit/nodegit/"
+    "host": "https://github.com/EdwardSalter/nodegit/releases/download/",
+    "remote_path": "{version}"
   },
   "scripts": {
     "cov": "npm run cppcov && npm run filtercov && npm run mergecov",
