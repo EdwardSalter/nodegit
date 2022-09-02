@@ -28,7 +28,7 @@
   "main": "lib/nodegit.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nodegit/nodegit.git"
+    "url": "https://github.com/EdwardSalter/nodegit.git"
   },
   "directories": {
     "build": "./build",
